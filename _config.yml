@@ -1,3 +1,6 @@
 title: min9ss
 description: AKS/ArgoCD, Azure 기록
 theme: minima
+
+header_pages:
+  - blog.md
